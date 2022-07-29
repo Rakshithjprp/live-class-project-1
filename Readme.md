@@ -8,6 +8,6 @@ This is my first code push to github. I learned how to push projects to Git Hub 
 
 Netlify
 
-[Project-1 live-link](https://singular-puffpuff-49f63c.netlify.app/)
+[Project-1 live-link](https://live-class-project-1-rj.netlify.app/)
 
 ![Badge](https://img.shields.io/badge/Project1-live-brightgreen)
